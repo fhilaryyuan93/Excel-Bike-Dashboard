@@ -1,4 +1,4 @@
-# Excel-Bike-Dashboard
+# Bike Sales Dashboard with Excel
 
 ## Goal 
 
@@ -17,3 +17,11 @@ The goal of this project was to create a dashboard from the Bike Sales Data. To 
 - Pivot tables are used to create tables which is crucial for graphs and charts
 
 - Merging cells to create a title band and adding Slicer to further filter data found in the Analyze menu
+
+## Screenshots
+
+### Bike Sales Dashboard
+
+![Screenshot of the bike sales dashboard](images/screenshot1.PNG)
+
+
