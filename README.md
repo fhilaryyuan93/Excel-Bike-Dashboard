@@ -24,15 +24,15 @@ The goal of this project was to create a dashboard from the Bike Sales Data. To 
 
 ![Screenshot of the bike sales dashboard](images/screenshot1.PNG)
 
-### Pivot Table 1
+### Average Income Pivot Table
 
 ![Pivot table screenshot 1](images/pivot-table-screenshot1.PNG)
 
-### Pivot Table 2
+### Customer Age Pivot Table
 
 ![Pivot table screenshot 1](images/pivot-table-screenshot2.PNG)
 
-### Pivot Table 3
+### Commute Distance Pivot Table
 
 ![Pivot table screenshot 1](images/pivot-table-screenshot3.PNG)
 
