@@ -26,13 +26,13 @@ The goal of this project was to create a dashboard from the Bike Sales Data. To 
 
 ### Pivot Table 1
 
-![Pivot table screenshot 1](pivot-table-screenshot1.PNG)
+![Pivot table screenshot 1](images/pivot-table-screenshot1.PNG)
 
 ### Pivot Table 2
 
-![Pivot table screenshot 1](pivot-table-screenshot2.PNG)
+![Pivot table screenshot 1](images/pivot-table-screenshot2.PNG)
 
 ### Pivot Table 3
 
-![Pivot table screenshot 1](pivot-table-screenshot3.PNG)
+![Pivot table screenshot 1](images/pivot-table-screenshot3.PNG)
 
